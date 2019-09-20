@@ -1,0 +1,12 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "template": "<h1>{{message}}</h1><small>Version 1. Taken from web</small>"
+    },
+    {
+      "id": 2,
+      "template": "<b>{{message}}</b><b>{{message}}</b><small>Version 2. Taken from web</small>"
+    }
+  ]
+}
